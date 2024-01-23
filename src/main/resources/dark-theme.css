@@ -1,0 +1,132 @@
+/**
+Dark color theme:
+Primary color: #ECE8DD
+Less primary 1: #579BB1
+Less primary 2: #E1D7C6
+Accent color: #1A1B1F
+*/
+
+.root {
+    -fx-background-color: #1A1B1F;
+    -fx-font-family: "Garamond", serif;
+}
+
+.label {
+    -fx-text-fill: #ECE8DD;
+}
+
+.menu-bar {
+    -fx-background-color: #ECE8DD;
+}
+
+.menu {
+    -fx-text-fill: #1A1B1F;
+}
+
+.menu-bar .menu .label {
+    -fx-text-fill: #1A1B1F;
+}
+
+.list-view {
+    -fx-background-color: #579BB1;
+}
+
+.list-cell {
+    -fx-background-color: #E1D7C6;
+    -fx-text-fill: #1A1B1F;
+    -fx-pref-height: 60px;
+}
+
+.scroll-bar {
+    -fx-background-color: #579BB1;
+    -fx-border-color: #579BB1;
+}
+
+.scroll-bar .thumb {
+    -fx-background-color: #ECE8DD;
+    -fx-background-radius: 10;
+}
+
+.scroll-bar .increment-button, .scroll-bar .decrement-button {
+    -fx-background-color: #E1D7C6;
+}
+
+.scroll-bar .increment-arrow {
+    -fx-background-color: #1A1B1F;
+    -fx-shape: "M 0 0 L 10 5 L 0 10 L 2.5 5 Z";
+}
+
+.scroll-bar .decrement-arrow {
+    -fx-background-color: #1A1B1F;
+    -fx-shape: "M 10 0 L 0 5 L 10 10 L 7.5 5 Z";
+}
+
+.vbox {
+    -fx-background-color: #579BB1;
+}
+
+.hbox {
+    -fx-background-color: #E1D7C6;
+}
+
+.dialog-pane {
+    -fx-background-color: #1A1B1F;
+    -fx-font-family: 'Garamond', serif;
+    -fx-font-size: 14px;
+    -fx-text-fill: #ECE8DD;
+}
+
+.dialog-pane .label {
+    -fx-text-fill: #ECE8DD;
+}
+
+.dialog-pane .text-field {
+    -fx-background-color: #579BB1;
+    -fx-text-fill: #1A1B1F;
+}
+
+.dialog-pane .combo-box .list-cell {
+    -fx-background-color: #E1D7C6;
+}
+
+.dialog-pane .combo-box .arrow-button {
+    -fx-background-color: #ECE8DD;
+}
+
+.dialog-pane .combo-box .arrow-button .arrow {
+    -fx-background-color: #1A1B1F;
+}
+
+.dialog-pane .spinner {
+    -fx-background-color: #579BB1;
+    -fx-border-color: #ECE8DD;
+}
+
+.dialog-pane .spinner .text-field {
+    -fx-background-color: #E1D7C6;
+    -fx-text-fill: #1A1B1F;
+}
+
+.dialog-pane .spinner .increment-arrow-button,
+.dialog-pane .spinner .decrement-arrow-button {
+    -fx-background-color: #E1D7C6;
+}
+
+.dialog-pane .spinner .increment-arrow,
+.dialog-pane .spinner .decrement-arrow {
+    -fx-background-color: #ECE8DD;
+}
+
+/* Notes Label */
+#notesLabel {
+    -fx-background-color: #1A1B1F;
+    -fx-text-fill: #ECE8DD;
+}
+
+/* Notes Text */
+#notesText {
+    -fx-background-color: #579BB1;
+    -fx-font-family: "Garamond", serif;
+    -fx-font-size: 14px;
+    -fx-text-fill: #ECE8DD;
+}
