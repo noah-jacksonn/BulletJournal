@@ -1,0 +1,38 @@
+{
+  "theme" : "LIGHT",
+  "notes" : "",
+  "maxTasks" : 5,
+  "maxEvents" : 1,
+  "startingDay" : "SUNDAY",
+  "dayDetails" : {
+    "FRIDAY" : {
+      "tasks" : [ ],
+      "events" : [ ]
+    },
+    "WEDNESDAY" : {
+      "tasks" : [ ],
+      "events" : [ ]
+    },
+    "MONDAY" : {
+      "tasks" : [ ],
+      "events" : [ ]
+    },
+    "SATURDAY" : {
+      "tasks" : [ ],
+      "events" : [ ]
+    },
+    "SUNDAY" : {
+      "tasks" : [ ],
+      "events" : [ ]
+    },
+    "TUESDAY" : {
+      "tasks" : [ ],
+      "events" : [ ]
+    },
+    "THURSDAY" : {
+      "tasks" : [ ],
+      "events" : [ ]
+    }
+  },
+  "password" : null
+}

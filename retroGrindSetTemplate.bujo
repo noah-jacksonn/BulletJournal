@@ -1,0 +1,39 @@
+{
+  "theme": "RETRO",
+  "notes": "Success isn't always about greatness. It's about consistency. Consistent hard work leads to success. Greatness will come. Unfortunately this note should get deleted when you load up this template.",
+  "maxTasks": 7,
+  "maxEvents": 7,
+  "startingDay": "SUNDAY",
+  "dayDetails": {
+    "SUNDAY": {
+      "tasks": [   {"name" : "this should be deleted",
+                        "isComplete" : false,
+                        "description" : "when loaded that is. If it's still here that's going to be a problem"}],
+      "events": []
+    },
+    "MONDAY": {
+      "tasks": [],
+      "events": []
+    },
+    "TUESDAY": {
+      "tasks": [],
+      "events": []
+    },
+    "WEDNESDAY": {
+      "tasks": [],
+      "events": []
+    },
+    "THURSDAY": {
+      "tasks": [],
+      "events": []
+    },
+    "FRIDAY": {
+      "tasks": [],
+      "events": []
+    },
+    "SATURDAY": {
+      "tasks": [],
+      "events": []
+    }
+  }
+}

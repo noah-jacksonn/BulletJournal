@@ -1,0 +1,41 @@
+{
+  "theme" : "LIGHT",
+  "notes" : "arst",
+  "maxTasks" : 5,
+  "maxEvents" : 5,
+  "startingDay" : "SUNDAY",
+  "dayDetails" : {
+    "THURSDAY" : {
+      "tasks" : [ ],
+      "events" : [ ]
+    },
+    "TUESDAY" : {
+      "tasks" : [ ],
+      "events" : [ ]
+    },
+    "SUNDAY" : {
+      "tasks" : [ {
+        "name" : "name of task",
+        "isComplete" : false,
+        "description" : "fake Desrcpition"
+      } ],
+      "events" : [ ]
+    },
+    "FRIDAY" : {
+      "tasks" : [ ],
+      "events" : [ ]
+    },
+    "WEDNESDAY" : {
+      "tasks" : [ ],
+      "events" : [ ]
+    },
+    "MONDAY" : {
+      "tasks" : [ ],
+      "events" : [ ]
+    },
+    "SATURDAY" : {
+      "tasks" : [ ],
+      "events" : [ ]
+    }
+  }
+}
